@@ -1,18 +1,17 @@
 # Paul Henri Alanís Noyola
 
-# My public profile!
-
+# MY PUBLIC PROFILE
 Hello there!
 
 I'm a bilingual QA tester with a keen eye for detail, and passionate about systems’ efficiency. Familiar with various quality control tools such as JIRA, Postman, Selenium, APIs and SQL. Meticulous, with excellent verbal and written communication skills, and highly dedicated. Eager to identify bugs and shed light on areas for improvement, aiming to prevent discomfort for the user and ensure the delivery of high-quality products that surpass users’ expectations.
 
-# SKILLS
+## SKILLS
 
 Manual testing | Automated testing| Mobile testing | API testing| Databases | Selenium | Android Studio | Postman | Jira | draw.io | Figma | PyCharm | Git | GitHub | SQL | Python | CMSs | SDLC 
 
-# TECHNICAL PROJECTS
+## TECHNICAL PROJECTS
 
-Practicum Bootcamp – Hybrid app testing (Urban Scooter)
+### Practicum Bootcamp – Hybrid app testing (Urban Scooter)
 
 o	Using the command console, I connected to a remote server where the scooter-delivery app is stored.
 
@@ -29,7 +28,7 @@ o	I ensured that the app’s functionality met the designers and developers’ e
 o	I created bug-tracking documentation using JIRA, identifying 74 bugs. I dutifully specified the environment, preconditions, steps, and screenshots necessary for the development team to easily localize the bugs and squash them.
 
 
-Practicum Bootcamp – Automatization tests (Urban Routes)
+### Practicum Bootcamp – Automatization tests (Urban Routes)
 
 o	I tested the functionality of an urban taxi app, employing Selenium and Python to design automatized requests in PyCharm.
 
