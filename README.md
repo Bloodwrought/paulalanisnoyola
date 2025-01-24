@@ -1,4 +1,4 @@
-# Paul Alanis Noyola
+# Paul Henri Alanís Noyola
 My public profile!
 
 Hello there!
